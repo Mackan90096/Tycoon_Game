@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Tycoon_Game",
-  "short_name": "Game",
+  "short_name": "Energy Tycoon Game",
   "description": "A Tycoon Game",
   "author": "Mackan90096",
   "permissions": [
