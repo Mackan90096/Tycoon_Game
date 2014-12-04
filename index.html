@@ -1,18 +1,28 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Tycoon_Game</title>
+  <title>Tycoon Game</title>
   <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
   <div id="container">
-    <span id="money"></span>
+    <span id="money">$ 100</span>
     <span id="mps">Money Per Sec: $0</span>
-    <div class="item" id="wind">Wind: 0</div>
-    <div class="item" id="water">Water: 0</div>
-    <span id="buyW">Buy Water: $100</span>
-    <span id="buyWin">Buy Wind: $1000</span>
+    <hr>
+    <div id="items">
+      <div class="item" id="i1"><span id="wind">Wind: 0</span></div>
+      <div class="item" id="i2"><span id="water">Water: 0</span></div>
+      <div class="item" id="i3"><span id="solar">Solar: 0</span></div>
+      <div class="item" id="i4"><span id="nuc">Nuclear: 0</span></div>
+      <div id="buys">
+        <span class="buy" id="buyW">Buy Water: $100</span>
+        <span class="buy" id="buyWin">Buy Wind: $1000</span>
+        <span class="buy" id="buySol">Buy Solar: $5000</span>
+        <span class="buy" id="buyNuc">Buy Nuclear: $10000</span>
+
+      </div>
+    </div>
   </div>
 
   <script src="main.js"></script>

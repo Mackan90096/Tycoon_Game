@@ -5,3 +5,39 @@ body{
 #money{
   font-size: 20px;
 }
+
+.item{
+	width: 60px;
+	height: 65px;
+	background-repeat: no-repeat;
+	margin-top: 5px;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+.item > span{
+	position: relative;
+	top: 50px;
+}
+
+#i1{
+	background-image: url('./assets/48/wind.png');
+}
+
+#i2{
+	background-image: url('./assets/48/water.png');
+}
+
+#i3{
+	background-image: url('./assets/48/solar.png');
+}
+
+#i4{
+	background-image: url('./assets/48/nuclear.png');
+}
+
+.buy{
+	margin-right: 2.5px;
+	margin-left: 2.5px;
+	font-size: 20px;
+}
