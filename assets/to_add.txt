@@ -1,0 +1,4 @@
+wind: https://cdn2.iconfinder.com/data/icons/energy-svg-icons/512/wind_power_weather-128.png
+nuclear: https://cdn4.iconfinder.com/data/icons/energy-icons/100/12-128.png
+solar: https://cdn3.iconfinder.com/data/icons/eco-friendly-icons/512/Solar_Panel-128.png
+water: https://cdn1.iconfinder.com/data/icons/industry-2/96/Dam-128.png
